@@ -1,6 +1,7 @@
 title: Gayathri Magesh
-   description: Software Engineer | Backend, GenAI, Distributed Systems
-   author:
+description: Software Engineer | Backend, GenAI, Distributed Systems
+theme: just-the-docs
+author:
      name: Gayathri Magesh
      email: gayathrimagesh1291@gmail.com
-   url: "https://gayathrimagesh.github.io"
+url: "https://gayathrimagesh.github.io"
